@@ -1,0 +1,5 @@
+{
+    "notificationMessage_one": "You have {{count}} notification",
+    "notificationMessage_other": "You have {{count}} notifications",
+    "tagTranslate": "Welcome, <1>user</1>! <3>Test</3>"
+  }
